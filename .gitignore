@@ -430,3 +430,5 @@ FodyWeavers.xsd
 
 # Custom ignore rules for DVLD Project
 *.exe
+*.pdf
+*.rtf
